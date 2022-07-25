@@ -6,6 +6,10 @@
     background-color: #FEEAE9;
 }
 
+.categories img {
+    width: 100px;
+}
+
 .watch {
     background: linear-gradient(152.07deg, #FF9C35 1.47%, #FFD019 97.17%);
 }
